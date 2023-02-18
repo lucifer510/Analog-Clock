@@ -1,7 +1,8 @@
 # Analog Clock
+
 * ## some basic math about degree
 
-  1. ### For h Hour
+1. ### For h Hour
 
     $$
         12hr \rarr360 \degree\\ 
@@ -9,7 +10,7 @@
         \therefore for \space h \space hour = (30h + \frac{m}{2})
     $$
 
-  2. ### For m Minute
+2. ### For m Minute
 
     $$
         60min \rarr 360\degree\\ 
@@ -17,7 +18,7 @@
         \therefore for \space m \space minute = (6m\degree)
     $$
 
-  3. ### For s Second
+3. ### For s Second
 
     $$
         60sec \rarr 360\degree\\ 
